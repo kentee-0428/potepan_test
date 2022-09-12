@@ -93,6 +93,7 @@ header {
 
 .navi-bar {
     display: none;
+    opacity: 0.5;
 }
 /* --------- headerここまで*--------/
 
@@ -100,7 +101,7 @@ header {
 
 /*---------- first-wrapperここから -------*/
 .first-wrapper {
-    background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+    background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
     background-size: cover;
     background-position: center;
     padding: 100px 0 28px;
